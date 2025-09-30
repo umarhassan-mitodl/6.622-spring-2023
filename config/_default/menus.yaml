@@ -1,0 +1,35 @@
+leftnav:
+- identifier: ae4e9e8b-0770-4eec-ba11-b1cd1051f3a6
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6eef5a42-2db4-4c55-8801-cd224a7b3a44
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: ef3e64f1-217e-4753-bee5-b25e35cbb5f8
+  name: Lecture Videos
+  pageRef: /video_galleries/video-lectures
+  weight: 30
+- identifier: a2591ce7-f0d0-48c1-bf92-9189fa81f3c3
+  name: Problem Sets
+  pageRef: /lists/problem-sets
+  weight: 40
+- identifier: 8d3d0a09-d30b-478b-879a-f4607a289d32
+  name: Design Project
+  pageRef: /pages/design-project
+  weight: 50
+- identifier: 8203ee87-374b-43fb-99f6-acb023c8c6ba
+  name: Assessments
+  pageRef: /lists/assessments
+  weight: 60
+- identifier: fa640507-de32-4d1a-843f-bfb180cb62a2
+  name: Handwritten Lecture Notes
+  pageRef: /lists/handwritten-lecture-notes
+  parent: 6eef5a42-2db4-4c55-8801-cd224a7b3a44
+  weight: 10
+- identifier: f3a0cd50-fe76-4092-8ede-d5281c52d89b
+  name: Typed Lecture Notes
+  pageRef: /lists/typed-lecture-notes
+  parent: 6eef5a42-2db4-4c55-8801-cd224a7b3a44
+  weight: 20

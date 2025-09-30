@@ -1,0 +1,47 @@
+---
+content_type: video_gallery
+draft: false
+title: Video Lectures
+uid: ef3e64f1-217e-4753-bee5-b25e35cbb5f8
+videos:
+  content:
+  - 6504fc0f-22eb-47c4-9e5a-1d9d0a1a2604
+  - 070e123e-f03d-42cc-adf4-eeacc0a3e7ca
+  - dbc19d53-52ac-40b6-8edc-c3fcd547826d
+  - 65c3ca4b-f1e9-419f-b96a-93fe070379c4
+  - ab181a0f-7bfe-47be-a241-0e397441053a
+  - 0f02e199-b5ee-4345-ae98-ac72fdcdc078
+  - 327380c4-8281-4945-941e-408247569c05
+  - 76fe854f-81e0-4dd3-8a48-678be7a50158
+  - b8d13259-3949-4576-a0a5-5a6811596a9e
+  - 37835fad-5c02-4c6e-aa4f-8ed7a4294a7d
+  - 25398d6e-23bf-453e-8b3e-dab68a42ef04
+  - 153c7765-46a1-44f6-a086-a2ef247448f2
+  - 797d7da6-da90-4596-875a-5ea5445b7074
+  - 2e4bf745-9c9f-4cff-bb69-0fbffa2f87b1
+  - e022d965-2720-4ddf-91e8-fdcb16fa06a5
+  - 118dac0c-3f34-4d84-bc2e-0387dd11a607
+  - b42b9496-5b8a-4785-a7f7-83ca77125ea6
+  - 876a56d4-f685-4f53-86c6-fa1053eec199
+  - f1d1879b-417c-4608-acaf-0c221c6be23a
+  - bf082c33-5c6f-4c8e-bd58-b78c5afcc1aa
+  - 2dffaec9-204f-4604-9859-3604a7751bc9
+  - 146ad0a9-b918-4594-8ef0-cfc3dd522287
+  - bff8a0ff-72ff-4af1-afe5-dcd294f0b051
+  - 3cef7029-c80e-496d-921a-30752f831902
+  - 28f3cd3c-9f0b-4cde-9811-22326523189c
+  - 42fe0e35-8b6f-4a9b-9b30-f545d8421ee1
+  - e8b0d270-8a74-4533-b8c6-894ba77822ff
+  - f0908a3a-235d-416b-88ad-675c1eaad63e
+  - 617dcf9a-ae36-43b1-8814-fdc5cefd5446
+  - 681c4805-8857-4ee3-9d73-c3246f1cada5
+  - 5345490c-fd4c-425a-aef0-b45066b3bb59
+  - 403e39be-c5be-4332-962f-415deee2ec61
+  - 30a67451-22f1-443c-b1b6-f6549c674f9d
+  - 09928c0d-eb0e-44ae-890f-d56628495688
+  - 85ea87d4-9bde-4269-9ae4-b727d8c47ffe
+  - 280420f1-af18-4a92-a753-f98937ad168a
+  - cc4f643c-988e-446a-89ee-3721446db0e3
+  - a12965e6-db28-4948-846a-d36e221e1649
+  website: power-electronics
+---
