@@ -5,8 +5,6 @@ draft: false
 file: /courses/6-622-power-electronics-spring-2023/mit6_622_s23_ps09.pdf
 file_size: 68118
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
